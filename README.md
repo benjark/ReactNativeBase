@@ -1,7 +1,3 @@
-# NFT Marketplace - Modern UI/UX React Native App
-![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
+# This is based on the following YouTube tutorial. https://www.youtube.com/watch?v=_ivIUCSOZ78&list=PLOirXaQbWU0AhROgVpLal4o1abnB49ABK&index=1&t=4016s
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
-
-Master React Native by building a modern NFT Marketplace iOS and Android #ReactNative Application in one video! Alongside developing the application, you'll also build a special landing page to showcase all of your app's features! Essentially, this is a full React Native Crash Course Tutorial video, enjoy!
+# Modifying for use in our capstone project.
